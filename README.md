@@ -20,3 +20,6 @@ R03 - Drugs for obstructive airway diseases
 R06 - Antihistamines for systemic use
 
 Sales data are resampled to the hourly, daily, weekly and monthly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.
+
+![image](https://github.com/poorvisinghal/Healthcare_sales_report/assets/83820919/245eefe7-2198-48c6-9ad2-e7beb4550dbd)
+
